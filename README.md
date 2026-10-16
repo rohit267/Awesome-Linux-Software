@@ -1222,6 +1222,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 ### Proxy
 
 - [![Open-Source Software][oss icon]](https://github.com/mitmproxy/mitmproxy) [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
+- [![Open-Source Software][oss icon]](https://github.com/rohit267/net-merge) [net-merge](https://github.com/rohit267/net-merge) - Uses all your network adapters at once (Wi-Fi, Ethernet, USB and phone tethers) by spreading connections over them, with no server or VPN.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
 - [![Open-Source Software][oss icon]](https://github.com/haad/proxychains) [ProxyChains](https://proxychains.sourceforge.net/) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 - [![Open-Source Software][oss icon]](https://github.com/shadowsocks/shadowsocks-qt5) [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
